@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a **Mechatronics Engineering student** with a 
 
 ## 📫 Let's Connect  
 
-- 💌 **Email:** [your.email@example.com]  
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)  
-- 🖥️ **Portfolio:** [Your Website](https://www.yourportfolio.com) (in development)
+- 💌 **Email:** [ishtiiyak@gmail.com]  
+- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/ishtiiyak)  
+
 
 Feel free to explore my repositories and join me in building something awesome! ✨  
